@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="extends_table" table="x_387597_needit_needit">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Extends table</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>Tasks</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>extends_table</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_387597_needit_needit</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:17:27</sys_created_on>
+        <sys_id>9e76a899db914010c1a4e37a4896197b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Extends table</sys_name>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_update_name>sys_dictionary_x_387597_needit_needit_extends_table</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:27:28</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</application>
+        <file_path/>
+        <instance_id>0d1a65e2dbcd73080ae3ac44d49619fb</instance_id>
+        <instance_name>dev84195</instance_name>
+        <name>sys_dictionary_x_387597_needit_needit_extends_table</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="extends_table" table="x_387597_needit_needit"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Extends table</column_label><comments/><create_roles/><default_value>Tasks</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>extends_table</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_387597_needit_needit</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-22 14:17:27</sys_created_on><sys_id>9e76a899db914010c1a4e37a4896197b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Extends table</sys_name><sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package><sys_policy/><sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope><sys_update_name>sys_dictionary_x_387597_needit_needit_extends_table</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-22 14:27:28</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1270398887</payload_hash>
+        <record_name>NeedIt.Extends table</record_name>
+        <reverted_from/>
+        <source>35c2e4d5db914010c1a4e37a48961930</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:27:28</sys_created_on>
+        <sys_id>19c8ec1ddb914010c1a4e37a489619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e9382bc440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:27:28</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>ddc864d91d914010fc9cca23d62d691d</update_guid>
+        <update_guid_history>ddc864d91d914010fc9cca23d62d691d:1270398887,9e76a899ea914010c6b60ecdf54d4ca1:-585442461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:31:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>334197e79dd34f00a91c1d9a53290000</sys_id>
+        <sys_metadata>9e76a899db914010c1a4e37a4896197b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extends table</sys_name>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_parent display_value="">1676a899db914010c1a4e37a48961910</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_scope_delete display_value="">3b4a502b04384dd28d136ebcdc0acd99</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_387597_needit_needit_extends_table</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_387597_needit_needit_extends_table">19c8ec1ddb914010c1a4e37a489619ca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:31:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

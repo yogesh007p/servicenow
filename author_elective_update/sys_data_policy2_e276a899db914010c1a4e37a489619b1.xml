@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_387597_needit_needit</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Add module to menu field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:17:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e276a899db914010c1a4e37a489619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Add module to menu field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_update_name>sys_data_policy2_e276a899db914010c1a4e37a489619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:17:27</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</application>
+        <file_path/>
+        <instance_id>0d1a65e2dbcd73080ae3ac44d49619fb</instance_id>
+        <instance_name>dev84195</instance_name>
+        <name>sys_data_policy2_e276a899db914010c1a4e37a489619b1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions/><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_387597_needit_needit</model_table><reverse_if_false>true</reverse_if_false><short_description>Sets the Add module to menu field to mandatory</short_description><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-22 14:17:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e276a899db914010c1a4e37a489619b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sets the Add module to menu field to mandatory</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package><sys_policy/><sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope><sys_update_name>sys_data_policy2_e276a899db914010c1a4e37a489619b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-22 14:17:27</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>1292922890</payload_hash>
+        <record_name>Sets the Add module to menu field to mandatory</record_name>
+        <reverted_from/>
+        <source>35c2e4d5db914010c1a4e37a48961930</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:17:27</sys_created_on>
+        <sys_id>6676a899db914010c1a4e37a489619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e93798fcc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:17:27</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>2e76a8991791401091633c4db196a6b2</update_guid>
+        <update_guid_history>2e76a8991791401091633c4db196a6b2:1292922890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:31:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>037fe17b5e124a028036a165ccab81e1</sys_id>
+        <sys_metadata>e276a899db914010c1a4e37a489619b1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Add module to menu field to mandatory</sys_name>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_parent display_value="">1676a899db914010c1a4e37a48961910</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_scope_delete display_value="">3b4a502b04384dd28d136ebcdc0acd99</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_e276a899db914010c1a4e37a489619b1</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_e276a899db914010c1a4e37a489619b1">6676a899db914010c1a4e37a489619b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:31:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

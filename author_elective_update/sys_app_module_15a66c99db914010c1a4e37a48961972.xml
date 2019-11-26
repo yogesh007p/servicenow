@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">9da6e899db914010c1a4e37a48961917</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_387597_needit_needit</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:18:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15a66c99db914010c1a4e37a48961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_update_name>sys_app_module_15a66c99db914010c1a4e37a48961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:18:12</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</application>
+        <file_path/>
+        <instance_id>0d1a65e2dbcd73080ae3ac44d49619fb</instance_id>
+        <instance_name>dev84195</instance_name>
+        <name>sys_app_module_15a66c99db914010c1a4e37a48961972</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">9da6e899db914010c1a4e37a48961917</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_387597_needit_needit</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-22 14:18:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>15a66c99db914010c1a4e37a48961972</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package><sys_policy/><sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope><sys_update_name>sys_app_module_15a66c99db914010c1a4e37a48961972</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-22 14:18:12</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1107803232</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>35c2e4d5db914010c1a4e37a48961930</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:18:12</sys_created_on>
+        <sys_id>9da66c99db914010c1a4e37a48961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e937a3f190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:18:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d5a66c9999914010b7ff87bd17e11573</update_guid>
+        <update_guid_history>d5a66c9999914010b7ff87bd17e11573:-1107803232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">53992c5ddb914010c1a4e37a489619df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-22 14:31:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>02cd8667dbe147309c11c470997da404</sys_id>
+        <sys_metadata>15a66c99db914010c1a4e37a48961972</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt" source="x_387597_needit">f9c2e4d5db914010c1a4e37a4896192d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f9c2e4d5db914010c1a4e37a4896192d</sys_scope>
+        <sys_scope_delete display_value="">3b4a502b04384dd28d136ebcdc0acd99</sys_scope_delete>
+        <sys_update_name>sys_app_module_15a66c99db914010c1a4e37a48961972</sys_update_name>
+        <sys_update_version display_value="sys_app_module_15a66c99db914010c1a4e37a48961972">9da66c99db914010c1a4e37a48961973</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-22 14:31:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
